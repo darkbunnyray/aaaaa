@@ -1,7 +1,7 @@
 import dearpygui.dearpygui as dpg, json, requests, time
 
 dpg.create_context()
-dpg.create_viewport(title="by wtfmano", width=800, height=600, vsync=False)
+dpg.create_viewport(title="by wtfmano - https://discord.gg/nrRv8FdK", width=800, height=600, vsync=False)
 dpg.setup_dearpygui()
 
 cachedStats = []
