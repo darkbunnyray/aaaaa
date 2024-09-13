@@ -1,2 +1,2 @@
-4ever 2012 
-admin 1111
+nick:4ever pass:2012 
+nick:admin pass:1111
